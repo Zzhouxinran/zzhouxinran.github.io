@@ -1,16 +1,19 @@
-#### Submitted
+#### 研在项目 (Research & Projects)
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- **基于混合检索增强 (RAG) 与 LoRA 微调的智能金融数据分析系统**, 2025—至今.
+  - 针对金融领域长文本理解难、实时性要求高的问题，构建了结合混合检索增强（Vector + Keyword Retrieval）与大模型微调的系统方案。
+  - 通过 LoRA 技术对金融大模型进行参数高效微调，并引入重排序（Rerank）机制显著提升了 Agent 在复杂金融指令下的响应准确度。
 
-#### Published
+#### 竞赛成果 (Contest Achievements)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **“华为杯”研究生数学建模竞赛：复杂海洋环境下的波浪能装置建模与优化**, 2025.
+  - 针对波浪能转换装置（WEC）的垂荡与旋转运动进行受力分析，建立了基于 Newton-Euler 方程的多自由度动力学模型。
+  - 采用遗传算法（GA）和差分进化算法对阻尼系数进行非线性寻优，成功实现了不同波浪环境下装置功率捕获效率的最大化。
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **“高教社杯”全国大学生数学建模竞赛：基于 CRITIC 评价的蔬菜商品定价与补货决策**, 2023.
+  - 运用 Pearson 相关性分析对蔬菜品类间的需求关联性进行挖掘，建立时间序列分析模型预测未来销量。
+  - 结合 CRITIC 客观赋权法构建定价评价模型，并以总收益最大化为目标函数，利用优化算法制定了最优的商超补货策略与定价方案。
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- **美国大学生数学建模竞赛 (MCM)：光污染影响评估与优化模型**, 2023.
+  - 构建了基于 AHP 层级分析法与 TOPSIS 综合评价的光污染风险评估指标体系。
+  - 结合非线性规划模型，针对不同地区的光污染现状提出了最优的干预策略，并进行了模型鲁棒性与灵敏度分析。

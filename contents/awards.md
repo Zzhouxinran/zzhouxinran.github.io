@@ -1,13 +1,10 @@
+- 2025 年“华为杯”第二十二届中国研究生数学建模竞赛，国家三等奖。
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 2023 年美国大学生数学建模竞赛 (MCM/ICM)，一等奖 (Meritorious Winner, 获奖比例 6.67%)。
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 2023 年“高教社杯”全国大学生数学建模竞赛，江苏省一等奖。
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 2021-2022 学年，校二等奖学金。
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 2021-2022 学年，校“三好学生”荣誉称号。
 

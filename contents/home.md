@@ -1,17 +1,14 @@
+目前是东北财经大学金融科技专业的硕士研究生。
 
+#### 联系方式 (Contact)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Email: zhouxinran5561@163.com
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 教育背景 (Education)
+- 硕士，金融科技，东北财经大学，2025—2028
+- 本科，金融科技，东北财经大学，2021—2025
 
-#### Contact
-
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### 研究兴趣 (Research Interests)
+- **人工智能与大模型**：专注于 LLM 在金融领域的应用，具备独立搭建 AI Agent 智能体、应用 RAG（检索增强生成）技术以及大模型微调的实战经验。
+- **数据分析与建模**：擅长金融时间序列分析。在校期间多次参加数学建模竞赛，在数据挖掘与复杂系统建模方面积累了丰富经验。
 
